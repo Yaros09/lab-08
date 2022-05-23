@@ -3,8 +3,9 @@
 1) Устанавливаем Docker c помощью
 ```
 sudo snap install docker
+sudo docker build -t logger 
 ```
-![Снимок экрана от 2022-05-23 21-04-54](https://user-images.githubusercontent.com/91633974/169906925-940024b0-62fb-46f8-bff6-9d5b329e0a26.png)
+![InkedСнимок экрана от 2022-05-23 21-04-54_LI](https://user-images.githubusercontent.com/91633974/169910687-a275a0d9-b941-4b08-8fae-a8fb600b2982.jpg)
 
 2) Dockerfile:
 ```
